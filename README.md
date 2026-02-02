@@ -1,4 +1,4 @@
-# 🚕 Autonomous Taxi Management Platform (UNIX)
+# Autonomous Taxi Management Platform (UNIX)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![UNIX](https://img.shields.io/badge/UNIX-000000?style=for-the-badge&logo=linux&logoColor=white)
@@ -19,7 +19,7 @@ The solution utilizes a distributed multi-process architecture based on three ma
 
 ---
 
-## 📡 Communication & Synchronization (IPC)
+## Communication & Synchronization (IPC)
 
 The system leverages native UNIX mechanisms to ensure data integrity and efficiency:
 
